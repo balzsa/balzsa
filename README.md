@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @balzsa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: gey
-- ⚡ Fun fact: gey
+- 👋 Hi, I’m not @balzsa
+- 👀 I’m interested in: balzsa
+- 🌱 I’m currently learning: how to cure dementia how to cure dementia how to cure dementia how to cure dementia how to cure dementia
+- 💞️ I’m looking to collaborate on: idk
+- 📫 How to reach me: i forgor
+- 😄 Pronouns: he/he/he/ha
+- ⚡ Fun fact: im straight
 
 <!---
 balzsa/balzsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
